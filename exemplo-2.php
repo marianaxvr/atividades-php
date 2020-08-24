@@ -8,4 +8,13 @@ $nome1 = "João"
 /*
 criação de comentário de bloco
 */
+
+echo $nome1;
+
+echo "<br/>";
+
+unset($nome1);
+
+echo $nome1;
+
 ?>
