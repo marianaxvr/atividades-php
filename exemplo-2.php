@@ -5,6 +5,14 @@ $nomeCompleto = "";
 //Na linha de baixo temos uma variável com número no nome
 $nome1 = "Mariana"
 
+$sobrenome = "Xavier"
+
+$nomeCompleto = $nome1 . $sobrenome;
+
+echo $nomeCompleto;
+
+exit;
+
 /*
 criação de comentário de bloco
 */
