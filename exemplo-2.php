@@ -3,9 +3,9 @@ $anoNascimento = 1999;
 
 $nomeCompleto = "";
 //Na linha de baixo temos uma variável com número no nome
-$nome1 = "Mariana"
+$nome1 = "Mariana";
 
-$sobrenome = "Xavier"
+$sobrenome = "Xavier";
 
 $nomeCompleto = $nome1 . " " . $sobrenome;
 
