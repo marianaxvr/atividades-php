@@ -15,7 +15,8 @@ echo "<br/>";
 
 unset($nome1);
 
-if(isset($nome1)); {
+if(isset($nome1)); //através disso já estou entendendo o crud e vou estudá-lo concomittantemente ao curso da udemy
+ {
 
 echo $nome1;
 
