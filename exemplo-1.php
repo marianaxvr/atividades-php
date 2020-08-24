@@ -2,6 +2,6 @@
 
 $nome = "Hcode";
 
-
+echo $nome;
 
 ?>
