@@ -9,4 +9,7 @@ $salario = 1200.99;
 
 $bloqueado = false;
 
+////////////////////
+$frutas = array("abacaxi", "laranja", "manga")
+
 ?>
