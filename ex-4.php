@@ -1,7 +1,7 @@
 <?php
 //variáveis pré definidas - super globais
 
-$nome = $_GET["user"];
+$nome = (int)$_GET["user"];
 var_dump($nome);
 
 ?>
