@@ -28,4 +28,7 @@ $arquivo = fopen("ex-3.php", "r");
 $nulo = NULL;
 $vazio = "";
 
+
+//vazio foi iniciado, nulo não tem "peso"
+
 ?>
