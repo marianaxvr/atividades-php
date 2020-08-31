@@ -12,6 +12,17 @@ $bloqueado = false;
 ////////////////////
 $frutas = array("abacaxi", "laranja", "manga");
 
-echo $frutas[2];
+// echo $frutas[2];
+
+//orientação a objetos //
+$nascimento = new DateTime();
+
+// var_dump($nascimento);
+//////////////////////////////
+
+$arquivo = fopen("ex-3.php", "r");
+
+var_dump($arquivo);
+
 
 ?>
