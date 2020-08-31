@@ -22,7 +22,10 @@ $nascimento = new DateTime();
 
 $arquivo = fopen("ex-3.php", "r");
 
-var_dump($arquivo);
+// var_dump($arquivo);
+// diferença entre nulo e vazio
 
+$nulo = NULL;
+$vazio = "";
 
 ?>
